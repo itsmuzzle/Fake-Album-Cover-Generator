@@ -1,7 +1,7 @@
 # Fake-Albumn-Cover
-Creates fake album covers using random Wikipedia articles and images from https://picsum.photos
+Creates fake album covers using random Wikipedia articles as the band name and album title superimposed onto a random image from https://picsum.photos
 
-# Example
+## Example
 Raw image:
 ![raw_album_1](album_art_raw.png)
 
